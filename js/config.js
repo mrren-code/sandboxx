@@ -10,7 +10,7 @@ Config.title = "BrooksideRP";
 /**
  * Enable map text in the top left corner of the screen?
  */
-Config.enableMap = false;
+Config.enableMap = true;
 
 /**
  * Enable steamId text in the top right corner of the screen?
