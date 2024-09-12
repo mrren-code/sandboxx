@@ -5,12 +5,12 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "";
+Config.title = "BrooksideRP";
 
 /**
  * Enable map text in the top left corner of the screen?
  */
-Config.enableMap = true;
+Config.enableMap = false;
 
 /**
  * Enable steamId text in the top right corner of the screen?
@@ -20,7 +20,7 @@ Config.enableSteamID = true;
 /**
  * Enable announcements?
  */
-Config.enableAnnouncements = true;
+Config.enableAnnouncements = false;
 
 /**
  * What messages do you want to show up?
