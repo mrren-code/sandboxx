@@ -35,7 +35,7 @@ Config.announceMessages = [
  * How many miliseconds for each announcement?
  * only works if enableAnnouncements = true
  */
-Config.announcementLength = 50;
+Config.announcementLength = 100;
 
 /**
  * Image Filename
@@ -46,4 +46,4 @@ Config.backgroundImage = "";
 /**
  * Enable debug messages?
  */
-Config.enableDebug = false;
+Config.enableDebug = true;
