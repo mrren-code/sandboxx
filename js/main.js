@@ -111,7 +111,7 @@ function loadAll() {
     debug("Checking if first time loading.. " + downloadingFileCalled);
     if (downloadingFileCalled) {
       announce(
-        "Це ваше перше завантаження, будь ласка, зачекайте, поки файли завантажаться",
+        "Сервер завантажується...",
         true
       );
     }
