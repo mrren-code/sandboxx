@@ -75,3 +75,11 @@ h1 {
   height: 3%;
   background-color: rgba(0, 0, 0, 0.5);
 }
+.loading-box {
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  width: 30%;
+  height: 5%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
