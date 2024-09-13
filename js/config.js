@@ -27,8 +27,8 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
-  "This loadingscreen is made by Exsite"
+  "F4 меню - дозволяє обрати власну професію.",
+  "Знайшли баг - повідомте в наш дискорд!"
 ];
 
 /**
