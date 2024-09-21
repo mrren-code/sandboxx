@@ -5,7 +5,7 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "BrooksideRP";
+Config.title = "Класичний сандбокс";
 
 /**
  * Enable map text in the top left corner of the screen?
@@ -27,8 +27,10 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "F4 меню - дозволяє обрати власну професію.",
+  "F3 меню - з різними аксесуарами!",
   "Знайшли баг - повідомте в наш дискорд!"
+  "Підтримайте наш проєкт через F6 або /donate!"
+  "F1 - щоби вімкнути 3-лице!"
 ];
 
 /**
